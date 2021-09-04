@@ -3,4 +3,7 @@ Good day, this project was developed in order to create geographic placemarks on
 # Installation
 Download the required packages from requrements:
 
-> pip3 install -r requirements.txt 
+```console
+pip3 install -r requirements.txt
+```
+
