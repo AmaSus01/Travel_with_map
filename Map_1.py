@@ -6,7 +6,7 @@ latti = []
 longi = []
 full_text = []
 
-with open('japan_travel_list', 'r') as file1:
+with open('travel_list', 'r') as file1:
     for line in file1:
         if line == '\n':
             pass
